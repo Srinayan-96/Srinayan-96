@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nyalakonda Srinayan</h1>
+<h1 align="center">Hi, I'm Nyalakonda Srinayan</h1>
 <h3 align="center">Full-Stack Developer | Building scalable, real-time systems</h3>
 
 <p align="center">
@@ -9,58 +9,49 @@
 
 ---
 
-### 🚧 I'm currently working on
-- Actively applying for **SDE roles**
-- Building **SentinelGrid** — a real-time disaster relief coordination platform (React, Node.js, PostgreSQL/PostGIS) with role-based JWT auth, spatial incident routing, and a Socket.io event layer with sub-100ms fan-out.
 
-### 🤝 I'm looking to collaborate on
-- Full-stack / backend projects involving **Spring Boot, Node.js, or React**
-- Real-time systems (WebSockets/Socket.io), geospatial apps, and DevOps/CI-CD pipelines
-- Open-source projects in healthtech, legaltech, or disaster-response tech
+### About Me
+<p>
+Final-year CS undergrad and full-stack developer who builds real-time, scalable systems — from disaster relief coordination platforms to hospital management backends.
+</p>
 
-### 🌱 I'm looking for help with
-- Scaling backend systems (Kubernetes, container orchestration) and cloud deployment best practices (AWS/Azure)
-- Infrastructure-as-Code patterns (Terraform, Ansible, Puppet)
+<p>
+I believe software should solve real problems and create meaningful impact, not just chase profit — that's why I gravitate toward projects in healthtech, legaltech, and disaster response.
+</p>
 
-### 📚 I'm currently learning
-- **DevOps & Cloud**: Kubernetes, AWS, Azure, Terraform, Ansible, Puppet, Docker, Jenkins, Prometheus, Grafana
-- Advanced system design & distributed systems
-
-### 💬 Ask me about
-- Spring Boot / REST API design, JWT & OAuth2, Spring Security
-- React.js, Node.js, MongoDB/PostgreSQL, MERN stack
-- Data Structures & Algorithms (300+ problems solved on LeetCode & other platforms)
-
-### ⚡ Fun fact
-- Placed 3rd in **Web-KA Hackathon**, building responsive websites under time pressure!
+<p>
+Currently looking for <b>SDE roles</b> where I can build reliable, production-grade software that genuinely helps people, while growing into cloud/DevOps practices.
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+**Languages**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python,html,mysql&theme=dark" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,css,express,postgres,mongodb&theme=dark" />
+
+**Frameworks & Libraries**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,css,express&theme=dark" />
 </p>
-<p align="center">
+
+**Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" />
+</p>
+
+**DevOps & Cloud**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,ansible,jenkins,githubactions,grafana,prometheus&theme=dark" />
 </p>
-<p align="center">
+
+**Tools**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,postman,figma,vscode,idea&theme=dark" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinayan-96&show_icons=true&theme=radical" alt="Srinayan's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinayan-96&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinayan-96&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
